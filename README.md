@@ -7,19 +7,6 @@ outputs from the corrected run. No synthetic spectra are used.
 
 ## Run In Colab
 
-Open and run the notebooks in order:
-
-1. `notebooks/01_corrected_fda_consensus_pipeline.ipynb`
-2. `notebooks/02_corrected_biochemical_analysis_pipeline.ipynb`
-3. `notebooks/03_authenticity_validation_pipeline.ipynb`
-
-The notebooks clone the source RamanSpectroscopy repository for the existing
-tabular workbook data, then recreate the corrected helper pipeline inside the
-Colab runtime. This makes the notebooks shareable and reproducible from GitHub.
-
-For notebook 3, Colab prompts for the raw milk `Sample 1-6` text files. If a
-file is missing, the notebook reports it and continues without fabricating data.
-
 ## Corrected Workflow
 
 - Structured controls: 45 spectra from repository workbooks.
