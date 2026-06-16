@@ -1,0 +1,4 @@
+sample_group,n,mean_authenticity_score,percent_above_threshold,auroc_combined_score,best_individual_metric,best_individual_metric_auroc
+bacterial,9,1.551526572446098,100.0,0.9827160493827161,weighted_l2,1.0
+control,45,0.5295240297873205,4.444444444444445,,,
+raw_unadulterated,5,0.8099390228327794,20.0,,,

@@ -1,0 +1,5 @@
+n_components,unique_milk_bands_matched,components_with_assignment,milk_band_coverage_per_component,relative_reconstruction_error
+3,7,3,2.3333333333333335,0.2256917854057379
+4,8,4,2.0,0.1788835924972046
+5,8,5,1.6,0.14194393239204292
+6,8,6,1.3333333333333333,0.11002112312395233

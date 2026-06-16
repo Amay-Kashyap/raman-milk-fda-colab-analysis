@@ -1,0 +1,4 @@
+reg,stable,converged,final_error,iterations,peak_to_median,reason,iteration
+0.0001,True,False,0.17936499871761563,250.0,5.943466710210012,,
+1e-05,True,False,0.3423767528400279,250.0,9.744497375997309,,
+1e-06,False,,,,,non-finite error,211.0

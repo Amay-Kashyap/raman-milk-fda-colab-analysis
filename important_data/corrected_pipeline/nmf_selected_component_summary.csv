@@ -1,0 +1,22 @@
+n_components,component,peak_cm-1,matched_band_cm-1,functional_group,assignment,source_type,match_delta_cm-1,match_confidence
+3,1,2851.25,2865.0,CH stretch,Fatty acids,milk,13.75,close match
+3,1,1438.75,1450.0,Acetyl-CoA / beta-oxidation,Bacterial-action signature,bacterial-action,11.25,close match
+3,1,1155.0,1160.0,Carotenoids,Bacterial-action signature,bacterial-action,5.0,close match
+3,1,1521.25,,Unassigned,Unassigned,Unassigned,44.75,unassigned
+3,1,1300.0,1315.0,CH2 twist / ester,Fat,milk,15.0,close match
+3,1,1652.5,1670.0,Amide II,Proteins,milk,17.5,approximate
+3,1,871.25,,Unassigned,Unassigned,Unassigned,71.25,unassigned
+3,2,1895.0,,Unassigned,Unassigned,Unassigned,136.0,unassigned
+3,2,1438.75,1450.0,Acetyl-CoA / beta-oxidation,Bacterial-action signature,bacterial-action,11.25,close match
+3,2,3171.25,,Unassigned,Unassigned,Unassigned,269.25,unassigned
+3,2,2207.5,,Unassigned,Unassigned,Unassigned,448.5,unassigned
+3,2,2915.0,2902.0,CH stretch,Fatty acids,milk,13.0,close match
+3,2,1000.0,1016.0,Aromatic C-C,Fat,milk,16.0,approximate
+3,2,1653.75,1670.0,Amide II,Proteins,milk,16.25,approximate
+3,3,1353.75,1315.0,CH2 twist / ester,Fat,milk,38.75,approximate
+3,3,1385.0,1416.0,CH2 bending,Fat / Lactose,milk,31.0,approximate
+3,3,1925.0,,Unassigned,Unassigned,Unassigned,166.0,unassigned
+3,3,1118.75,,Unassigned,Unassigned,Unassigned,41.25,unassigned
+3,3,1295.0,1279.0,CH2 twist / ester,Fat,milk,16.0,approximate
+3,3,1443.75,1450.0,Acetyl-CoA / beta-oxidation,Bacterial-action signature,bacterial-action,6.25,close match
+3,3,3070.0,,Unassigned,Unassigned,Unassigned,168.0,unassigned

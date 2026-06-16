@@ -1,0 +1,15 @@
+sample_id,group,source,native_points,x_min,x_max,median_spacing,raw_min,raw_max,baseline_ratio_p95_raw_to_corrected
+AKSHAYA K-ALPHA FC_BACTERIA_D2.txt,bacterial,src\combined_raman_spectra (Experimental).xlsx,1957,400.0,3500.0,1.584899999999834,855.75482,2397.771,32.67763314815587
+AMUL TAZA TONED_BACTERIA_D2.txt,bacterial,src\combined_raman_spectra (Experimental).xlsx,1957,400.0,3500.0,1.584899999999834,918.98523,1590.3473,31.025592717694668
+AMUL TONED_BACTERIA_D2.txt,bacterial,src\combined_raman_spectra (Experimental).xlsx,1957,400.0,3500.0,1.584899999999834,876.07501,1971.2233,41.30354989352837
+HERITAGE FC LC -BACTERIA-D2.txt,bacterial,src\combined_raman_spectra (Experimental).xlsx,1957,400.0,3500.0,1.584899999999834,905.33234,1289.5828,42.11292236050885
+HERITAGE FC-BACTERIA-D2.txt,bacterial,src\combined_raman_spectra (Experimental).xlsx,1957,400.0,3500.0,1.584899999999834,956.2663,1524.7385,28.439414510299557
+HERITAGE SPECIAL_BACTERIA_D2.txt,bacterial,src\combined_raman_spectra (Experimental).xlsx,1957,400.0,3500.0,1.584899999999834,930.12128,2197.2659,36.80580377874393
+HERITAGE TONED_BACTERIA_D2.txt,bacterial,src\combined_raman_spectra (Experimental).xlsx,1957,400.0,3500.0,1.584899999999834,909.854,1322.8877,37.49399403129986
+NANDHINI FC-BACTERIA-D2.txt,bacterial,src\combined_raman_spectra (Experimental).xlsx,1957,400.0,3500.0,1.584899999999834,849.06891,2517.0671,43.078246245300974
+NANDHINI TONED_BACTERIA_D2.txt,bacterial,src\combined_raman_spectra (Experimental).xlsx,1957,400.0,3500.0,1.584899999999834,843.39453,1161.7515,57.62496362245653
+Sample 2 532nm 50% 600g 50xL 10s 10times 400-3500cm-1 200hole.txt,raw_unadulterated,C:\Users\Amay Kashyap Deka\Downloads\Sample 2 532nm 50% 600g 50xL 10s 10times 400-3500cm-1 200hole.txt,2118,400.176,3499.12,1.4500000000002728,4847.47,45890.7,3.38537838098427
+Sample 3 532nm 50% 600g 50xL 10s 10times 400-3500cm-1 200hole.txt,raw_unadulterated,C:\Users\Amay Kashyap Deka\Downloads\Sample 3 532nm 50% 600g 50xL 10s 10times 400-3500cm-1 200hole.txt,2118,400.176,3499.12,1.4500000000002728,3179.27,25667.3,11.780106877768462
+Sample 4 532nm 50% 600g 50xL 10s 10times 400-3500cm-1 200hole.txt,raw_unadulterated,C:\Users\Amay Kashyap Deka\Downloads\Sample 4 532nm 50% 600g 50xL 10s 10times 400-3500cm-1 200hole.txt,2118,400.176,3499.12,1.4500000000002728,3459.23,21126.3,3.7202917928838053
+Sample 5 532nm 50% 600g 50xL 8s 10times 400-3500cm-1 200hole.txt,raw_unadulterated,C:\Users\Amay Kashyap Deka\Downloads\Sample 5 532nm 50% 600g 50xL 8s 10times 400-3500cm-1 200hole.txt,2118,400.176,3499.12,1.4500000000002728,4200.88,41390.8,16.190098870002664
+Sample 6 532nm 50% 600g 50xL 8s 10times 400-3500cm-1 200hole.txt,raw_unadulterated,C:\Users\Amay Kashyap Deka\Downloads\Sample 6 532nm 50% 600g 50xL 8s 10times 400-3500cm-1 200hole.txt,2118,400.176,3499.12,1.4500000000002728,4014.43,25439.2,7.813336982254574

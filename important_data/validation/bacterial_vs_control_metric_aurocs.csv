@@ -1,0 +1,6 @@
+metric,auroc_bacterial_vs_control
+weighted_l2,1.0
+authenticity_score,0.9827160493827161
+l2,0.9777777777777779
+wasserstein_1d,0.8962962962962964
+auc,0.7111111111111111

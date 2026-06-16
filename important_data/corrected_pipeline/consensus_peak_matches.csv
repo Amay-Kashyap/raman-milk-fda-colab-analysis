@@ -1,0 +1,76 @@
+method,peak_cm-1,matched_band_cm-1,functional_group,assignment,source_type,match_delta_cm-1,match_confidence
+arithmetic_mean_discrete_interpolated,1438.75,1450.0,Acetyl-CoA / beta-oxidation,Bacterial-action signature,bacterial-action,11.25,close match
+arithmetic_mean_discrete_interpolated,2851.25,2865.0,CH stretch,Fatty acids,milk,13.75,close match
+arithmetic_mean_discrete_interpolated,1155.0,1160.0,Carotenoids,Bacterial-action signature,bacterial-action,5.0,close match
+arithmetic_mean_discrete_interpolated,1521.25,,Unassigned,Unassigned,Unassigned,44.75,unassigned
+arithmetic_mean_discrete_interpolated,1300.0,1315.0,CH2 twist / ester,Fat,milk,15.0,close match
+arithmetic_mean_discrete_interpolated,1652.5,1670.0,Amide II,Proteins,milk,17.5,approximate
+arithmetic_mean_discrete_interpolated,1893.75,,Unassigned,Unassigned,Unassigned,134.75,unassigned
+arithmetic_mean_discrete_interpolated,3171.25,,Unassigned,Unassigned,Unassigned,269.25,unassigned
+arithmetic_mean_discrete_interpolated,875.0,,Unassigned,Unassigned,Unassigned,75.0,unassigned
+arithmetic_mean_discrete_interpolated,1080.0,,Unassigned,Unassigned,Unassigned,64.0,unassigned
+arithmetic_mean_discrete_interpolated,2891.25,2902.0,CH stretch,Fatty acids,milk,10.75,close match
+arithmetic_mean_discrete_interpolated,1002.5,1016.0,Aromatic C-C,Fat,milk,13.5,close match
+arithmetic_mean_discrete_interpolated,2207.5,,Unassigned,Unassigned,Unassigned,448.5,unassigned
+arithmetic_mean_discrete_interpolated,1353.75,1315.0,CH2 twist / ester,Fat,milk,38.75,approximate
+arithmetic_mean_discrete_interpolated,1743.75,1759.0,CH2 bending,Fat / Lactose,milk,15.25,approximate
+spline_mean_functional,1438.75,1450.0,Acetyl-CoA / beta-oxidation,Bacterial-action signature,bacterial-action,11.25,close match
+spline_mean_functional,2851.25,2865.0,CH stretch,Fatty acids,milk,13.75,close match
+spline_mean_functional,1155.0,1160.0,Carotenoids,Bacterial-action signature,bacterial-action,5.0,close match
+spline_mean_functional,1521.25,,Unassigned,Unassigned,Unassigned,44.75,unassigned
+spline_mean_functional,1300.0,1315.0,CH2 twist / ester,Fat,milk,15.0,close match
+spline_mean_functional,1652.5,1670.0,Amide II,Proteins,milk,17.5,approximate
+spline_mean_functional,1895.0,,Unassigned,Unassigned,Unassigned,136.0,unassigned
+spline_mean_functional,3172.5,,Unassigned,Unassigned,Unassigned,270.5,unassigned
+spline_mean_functional,875.0,,Unassigned,Unassigned,Unassigned,75.0,unassigned
+spline_mean_functional,1080.0,,Unassigned,Unassigned,Unassigned,64.0,unassigned
+spline_mean_functional,2891.25,2902.0,CH stretch,Fatty acids,milk,10.75,close match
+spline_mean_functional,1002.5,1016.0,Aromatic C-C,Fat,milk,13.5,close match
+spline_mean_functional,1353.75,1315.0,CH2 twist / ester,Fat,milk,38.75,approximate
+spline_mean_functional,2207.5,,Unassigned,Unassigned,Unassigned,448.5,unassigned
+spline_mean_functional,1743.75,1759.0,CH2 bending,Fat / Lactose,milk,15.25,approximate
+robust_median_functional,1438.75,1450.0,Acetyl-CoA / beta-oxidation,Bacterial-action signature,bacterial-action,11.25,close match
+robust_median_functional,2851.25,2865.0,CH stretch,Fatty acids,milk,13.75,close match
+robust_median_functional,1155.0,1160.0,Carotenoids,Bacterial-action signature,bacterial-action,5.0,close match
+robust_median_functional,1521.25,,Unassigned,Unassigned,Unassigned,44.75,unassigned
+robust_median_functional,1300.0,1315.0,CH2 twist / ester,Fat,milk,15.0,close match
+robust_median_functional,1652.5,1670.0,Amide II,Proteins,milk,17.5,approximate
+robust_median_functional,1895.0,,Unassigned,Unassigned,Unassigned,136.0,unassigned
+robust_median_functional,3190.0,,Unassigned,Unassigned,Unassigned,288.0,unassigned
+robust_median_functional,875.0,,Unassigned,Unassigned,Unassigned,75.0,unassigned
+robust_median_functional,2891.25,2902.0,CH stretch,Fatty acids,milk,10.75,close match
+robust_median_functional,1078.75,,Unassigned,Unassigned,Unassigned,62.75,unassigned
+robust_median_functional,1002.5,1016.0,Aromatic C-C,Fat,milk,13.5,close match
+robust_median_functional,1743.75,1759.0,CH2 bending,Fat / Lactose,milk,15.25,approximate
+robust_median_functional,1122.5,1160.0,Carotenoids,Bacterial-action signature,bacterial-action,37.5,approximate
+robust_median_functional,2328.75,,Unassigned,Unassigned,Unassigned,536.25,unassigned
+wasserstein_exact_quantile_fallback,2906.25,2902.0,CH stretch,Fatty acids,milk,4.25,close match
+wasserstein_exact_quantile_fallback,2931.25,2902.0,CH stretch,Fatty acids,milk,29.25,approximate
+wasserstein_exact_quantile_fallback,1545.0,1566.0,Amide I,Proteins,milk,21.0,approximate
+wasserstein_exact_quantile_fallback,2786.25,,Unassigned,Unassigned,Unassigned,78.75,unassigned
+wasserstein_exact_quantile_fallback,1800.0,,Unassigned,Unassigned,Unassigned,41.0,unassigned
+wasserstein_exact_quantile_fallback,2771.25,,Unassigned,Unassigned,Unassigned,93.75,unassigned
+wasserstein_exact_quantile_fallback,1433.75,1450.0,Acetyl-CoA / beta-oxidation,Bacterial-action signature,bacterial-action,16.25,approximate
+wasserstein_exact_quantile_fallback,1741.25,1759.0,CH2 bending,Fat / Lactose,milk,17.75,approximate
+wasserstein_exact_quantile_fallback,3072.5,,Unassigned,Unassigned,Unassigned,170.5,unassigned
+wasserstein_exact_quantile_fallback,2813.75,,Unassigned,Unassigned,Unassigned,51.25,unassigned
+wasserstein_exact_quantile_fallback,1386.25,1416.0,CH2 bending,Fat / Lactose,milk,29.75,approximate
+wasserstein_exact_quantile_fallback,2997.5,,Unassigned,Unassigned,Unassigned,95.5,unassigned
+wasserstein_exact_quantile_fallback,1573.75,1566.0,Amide I,Proteins,milk,7.75,close match
+wasserstein_exact_quantile_fallback,1617.5,,Unassigned,Unassigned,Unassigned,51.5,unassigned
+wasserstein_exact_quantile_fallback,1677.5,1670.0,Amide II,Proteins,milk,7.5,close match
+wasserstein_exact_quantile,2906.25,2902.0,CH stretch,Fatty acids,milk,4.25,close match
+wasserstein_exact_quantile,2931.25,2902.0,CH stretch,Fatty acids,milk,29.25,approximate
+wasserstein_exact_quantile,1545.0,1566.0,Amide I,Proteins,milk,21.0,approximate
+wasserstein_exact_quantile,2786.25,,Unassigned,Unassigned,Unassigned,78.75,unassigned
+wasserstein_exact_quantile,1800.0,,Unassigned,Unassigned,Unassigned,41.0,unassigned
+wasserstein_exact_quantile,2771.25,,Unassigned,Unassigned,Unassigned,93.75,unassigned
+wasserstein_exact_quantile,1433.75,1450.0,Acetyl-CoA / beta-oxidation,Bacterial-action signature,bacterial-action,16.25,approximate
+wasserstein_exact_quantile,1741.25,1759.0,CH2 bending,Fat / Lactose,milk,17.75,approximate
+wasserstein_exact_quantile,3072.5,,Unassigned,Unassigned,Unassigned,170.5,unassigned
+wasserstein_exact_quantile,2813.75,,Unassigned,Unassigned,Unassigned,51.25,unassigned
+wasserstein_exact_quantile,1386.25,1416.0,CH2 bending,Fat / Lactose,milk,29.75,approximate
+wasserstein_exact_quantile,2997.5,,Unassigned,Unassigned,Unassigned,95.5,unassigned
+wasserstein_exact_quantile,1573.75,1566.0,Amide I,Proteins,milk,7.75,close match
+wasserstein_exact_quantile,1617.5,,Unassigned,Unassigned,Unassigned,51.5,unassigned
+wasserstein_exact_quantile,1677.5,1670.0,Amide II,Proteins,milk,7.5,close match
